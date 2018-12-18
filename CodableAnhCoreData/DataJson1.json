@@ -1,0 +1,27 @@
+[
+{
+"id": "0",
+"username" : "Tuan",
+"address" : "Hanoi",
+"job" : "Dev"
+},
+{
+"id": "1",
+"username" : "nam",
+"address" : "Hcm",
+"job" : "Dev"
+},
+{
+"id": "2",
+"username" : "nu",
+"address" : "Hanoi",
+"job" : "tester"
+},
+{
+"id": "3",
+"username" : "ha",
+"address" : "hcm",
+"job" : "Dev"
+}
+]
+
